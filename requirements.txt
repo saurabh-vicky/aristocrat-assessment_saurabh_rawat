@@ -1,0 +1,11 @@
+# Core Python Testing
+pytest==8.3.2
+pytest-xdist==3.6.1              # For parallel execution
+pytest-rerunfailures==12.0       # Optional: re-run flaky tests
+pytest-html==4.1.1               # Optional: HTML report
+pytest-timeout==2.3.1            # Optional: timeout for tests
+
+
+# Selenium
+selenium==4.39.0
+
